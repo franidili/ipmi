@@ -1,1 +1,1 @@
-# ipms
+# ipmi
